@@ -5,4 +5,4 @@
 [submodule "prismaid"]
 	path = prismaid
 	url = https://github.com/open-and-sustainable/prismaid
-	branch = main
+	branch = 41-add-pipeline-to-publish-prismaid-as-r-module
