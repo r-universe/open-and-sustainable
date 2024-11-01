@@ -5,4 +5,4 @@
 [submodule "prismaid"]
 	path = prismaid
 	url = https://github.com/open-and-sustainable/prismaid
-	branch = main
+	branch = 71-r-package-does-not-compile-for-macos-and-windows
